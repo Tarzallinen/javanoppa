@@ -6,5 +6,5 @@ function heitto() {
 
     var diceElement = document.getElementById("noppa");
 
-    diceElement.innerHTML = `<img src="../kuvat/${numero}.png" />`;
+    diceElement.innerHTML = `<img src="./kuvat/${numero}.png" />`;
 }
